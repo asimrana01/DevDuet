@@ -1,0 +1,62 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asim's Resume</title>
+</head>
+<body>
+    <table>
+        <tr>
+            <td><img width="300" src="/85190337_836643083464335_493479832366088192_n.jpg" alt="Asim Photo"></td>
+            <td><h1>Muhammad Asim Sadiq</h1>
+                <p><i>Web Developer</i></p></td>
+        </tr>
+    </table>
+    
+      
+<!-- Header Section Ended -->
+<hr>
+<h2>Education</h2>
+<table border="">
+<tr>
+    <th>Course</th>
+    <th>Institute</th>
+    <th>Year</th>
+    <th>Result</th>
+</tr>
+<tr>
+    <td>BS Computer Science</td>
+    <td>University of Agriculture, Faisalabad</td>
+    <td>2023</td>
+    <td>3.2 CGPA</td>
+</tr>
+<tr>
+    <td>12<sup>th</sup> Grade</td>
+    <td>Punjab College, Faisalabad</td>
+    <td>2021</td>
+    <td>94.16%</td>
+</tr>
+</table>
+<hr>
+<h2>Intership</h2>
+<P><strong>InfoSys</strong></P>
+<p>Junior web Developer</p>
+<ul>
+    <li>Collaborated on stages of systems development lifecycle from requirement gathering to production releases</li>
+    <li>Revised, modularized and updated old code bases to modern development standards, reducing operating costs, and improving functionality</li>
+</ul>
+<!-- Education Ended -->
+<h2>Projects</h2>
+<ul>
+    <li><h3>Calculator</h3>
+    Built a Calculator with Frontend and Javacript</li>
+    <li><h3>Portfolio</h3>
+    My website at Surge</li>
+    <!-- Projects ended -->
+    <hr>
+    <h3>Contact Me</h3>
+    <p><strong>Email:</strong>muhammadasimsadiq01@gmail.com</p>
+</ul>
+</body>
+</html>
